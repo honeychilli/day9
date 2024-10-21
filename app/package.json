@@ -1,0 +1,11 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "first init",
+  "main": "app.js",
+  "scripts": {
+    "test": "run app"
+  },
+  "author": "",
+  "license": "ISC"
+}
